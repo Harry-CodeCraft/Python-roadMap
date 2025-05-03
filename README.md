@@ -20,6 +20,17 @@ This repository is your one-stop destination for all resources, study materials,
 
 ---
 
+## Full "Think Python" E-Book
+
+![Think Python E-Book Cover](assets/think-py-book-cover.png)
+
+We have included the full **"Think Python" (3rd Edition)** eBook in this repository. This book is an excellent resource for learning Python programming from the ground up.
+
+- **File Name**: `Think-python-book-3rd-edition.pdf`
+- **How to Access**: Download the PDF directly from this repository and start learning!
+
+---
+
 ## How to Use This Repository?
 
 1. Browse the repository to explore the available resources.
