@@ -1,6 +1,6 @@
 # Python Roadmap and E-Book Repository
 
-![Python Roadmap Logo](assets/logo.png) <!-- Replace with the actual path or URL to your logo -->
+![Python Roadmap Logo](https://www.python.org/static/img/psf-logo.png)
 
 Welcome to the **Python Roadmap and E-Book Repository**! 🎉
 
@@ -10,7 +10,7 @@ This repository is your one-stop destination for all resources, study materials,
 
 ## What's Inside?
 
-![Python Roadmap Infographic](assets/roadmap-infographic.png) <!-- Replace with the actual path or URL to your infographic -->
+![Python Roadmap Infographic](assets/roadmap-infographic.png)
 
 - **Python Roadmap**: A comprehensive guide to help you navigate your journey from beginner to master in Python.
 - **E-Books**: Downloadable PDFs like:
